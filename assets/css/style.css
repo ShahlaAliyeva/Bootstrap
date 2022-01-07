@@ -5,3 +5,11 @@ body {
 p {
     line-height: 1.7em;
 }
+
+.position-absolute {
+    z-index: 3;
+    padding: 1em 0;
+    text-align: center;
+    left: 0;
+    bottom: .8em;
+}
